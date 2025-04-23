@@ -1,7 +1,7 @@
 {
    "name": "train-booking",
    "version": "0.1.0",
-   "homepage": "/",
+   "homepage": "https://nikita134679.github.io/diplom/",
    "private": true,
    "dependencies": {
       "@ant-design/icons": "^4.7.0",
@@ -11,6 +11,7 @@
       "@testing-library/user-event": "^14.4.3",
       "antd": "^4.23.2",
       "dayjs": "^1.11.5",
+      "gh-pages": "^6.3.0",
       "nanoid": "^4.0.0",
       "prop-types": "^15.8.1",
       "push-dir": "^0.4.1",
@@ -29,7 +30,9 @@
       "build": "react-scripts build",
       "test": "react-scripts test",
       "eject": "react-scripts eject",
-      "lint": "eslint ."
+      "lint": "eslint .",
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
    },
    "eslintConfig": {
       "extends": [
