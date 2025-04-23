@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/diplom/static/css/main.f6e9a43f.css",
-    "main.js": "/diplom/static/js/main.881d3f0b.js",
+    "main.js": "/diplom/static/js/main.3f412c75.js",
     "static/media/background-success.png": "/diplom/static/media/background-success.f4c572a064afd726e932.png",
     "static/media/background-main.png": "/diplom/static/media/background-main.342962d46ac521ac491d.png",
     "static/media/background-middle.png": "/diplom/static/media/background-middle.36e82725212d69a1c278.png",
@@ -83,6 +83,6 @@
   },
   "entrypoints": [
     "static/css/main.f6e9a43f.css",
-    "static/js/main.881d3f0b.js"
+    "static/js/main.3f412c75.js"
   ]
 }
