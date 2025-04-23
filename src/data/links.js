@@ -1,4 +1,4 @@
-const startName = '/';
+const startName = 'https://nikita134679.github.io/diplom/';
 
 const links = {
    main: startName,
