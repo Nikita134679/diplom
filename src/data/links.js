@@ -1,4 +1,4 @@
-const startName = '/';
+const startName = '/diplom';
 
 const links = {
    main: startName,
